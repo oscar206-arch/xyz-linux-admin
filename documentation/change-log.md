@@ -28,4 +28,10 @@ getent group hr
 getent group finance
 getent group sales
 
+Change 002: Department Shared Directories
+
+Date:2020-09-29
+Admin:os206
+System:n8
+
 

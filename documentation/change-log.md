@@ -4,7 +4,7 @@ Change 001 : Departmental Groups
 
 Date:2026-09-26
 Admin:os206
-System: n8
+System: n8server
 
 #### Objective
 
@@ -32,7 +32,7 @@ Change 002: Department Shared Directories
 
 Date:2020-09-29
 Admin:os206
-System:n8
+System:n8server
 
 ### Objective
 
